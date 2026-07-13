@@ -60,6 +60,7 @@ Maintained by [FieldService](https://fieldservice.dk?utm_source=github&utm_mediu
 - [Method:CRM](https://www.method.me) - QuickBooks-native FSM for small contractors.
 - [Vonigo](https://www.vonigo.com) - Service business booking with strong multi-location support.
 - [The Service Program](https://www.theserviceprogram.com) - Pest control, HVAC, lawn care for small operators.
+- [Commandra](https://commandra.io) - Multi-tenant CRM for home service contractors with AI lead response (60-second auto-reply), automated follow-up sequences, review request automation, scheduling, and invoicing. Built by a contractor.
 
 ## Danish & Nordic Platforms 🇩🇰
 
