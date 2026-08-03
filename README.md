@@ -180,6 +180,7 @@ Maintained by [FieldService](https://fieldservice.dk?utm_source=github&utm_mediu
 - [Toggl Track](https://toggl.com/track/) - Lightweight time tracking when full FSM is overkill.
 - [Loom](https://loom.com) - Video walkthroughs for remote troubleshooting and training.
 - [SignWell](https://www.signwell.com) - E-signature for service agreements.
+- [Workforce Wave](https://www.workforcewave.com) - Answers inbound calls 24/7, books appointments, and captures leads for service businesses.
 
 ## Related Lists
 
