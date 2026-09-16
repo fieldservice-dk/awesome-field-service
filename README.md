@@ -175,11 +175,12 @@ Maintained by [FieldService](https://fieldservice.dk?utm_source=github&utm_mediu
 
 ## Tools for Service Businesses
 
-- [Calendly](https://calendly.com) - Customer-facing booking, often used as a lightweight scheduler add-on.
 - [Cal.com](https://cal.com) - Open source booking platform.
-- [Toggl Track](https://toggl.com/track/) - Lightweight time tracking when full FSM is overkill.
+- [Calendly](https://calendly.com) - Customer-facing booking, often used as a lightweight scheduler add-on.
 - [Loom](https://loom.com) - Video walkthroughs for remote troubleshooting and training.
+- [More Good Reviews](https://moregoodreviews.com) - AI reputation manager: automate email/SMS review requests, sync Google & Facebook reviews, draft AI replies; Agency white-label for service businesses.
 - [SignWell](https://www.signwell.com) - E-signature for service agreements.
+- [Toggl Track](https://toggl.com/track/) - Lightweight time tracking when full FSM is overkill.
 
 ## Related Lists
 
