@@ -55,6 +55,7 @@ Maintained by [FieldService](https://fieldservice.dk?utm_source=github&utm_mediu
 ### SMB
 
 - [Connecteam](https://connecteam.com) - Workforce management with scheduling and time tracking, mobile-first.
+- [Genaya](https://genaya.com) - All-in-one platform for service businesses: scheduling and dispatch, CRM, estimates and invoices, payments, an AI phone receptionist and a mobile app for techs.
 - [Workiz](https://workiz.com) - Designed for field service SMBs (locksmiths, cleaning, junk removal).
 - [Service Autopilot](https://www.serviceautopilot.com) - Lawn care and cleaning specialist.
 - [Method:CRM](https://www.method.me) - QuickBooks-native FSM for small contractors.
